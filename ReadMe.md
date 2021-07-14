@@ -1,3 +1,13 @@
+# 코로나 데이터 분석 프로젝트
+
+- CSV 파일 활용
+- R 언어를 활용해 코로나 데이터 분석
+- 대한민국 국민을 대상
+- 데이터 시각화
+
+# PPT
+
+
 <img width="1043" alt="image" src="https://user-images.githubusercontent.com/62547169/122171879-2df26a80-cebb-11eb-9c3c-9ba1f1a87fa9.png">
 
 <img width="1037" alt="image" src="https://user-images.githubusercontent.com/62547169/122171912-377bd280-cebb-11eb-9172-8deb55173549.png">
